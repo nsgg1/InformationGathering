@@ -23,6 +23,16 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 
+## Pen Test Tools Categories:  
+
+Following Categories of pen test tools are identified for information gathering:
+
+Footprinting is a part of the reconnaissance process which is used for gathering possible information about a target computer system or network.
+http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
+
+##output
+
+![ex02-whois](./Whoissaveetha.ac.in.png)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
